@@ -116,8 +116,3 @@ However, in an IDO, since the tokens are directly listed on a DEX, anyone with a
 Please note that the mechanics and requirements of IDOs can differ based on the platform or protocol utilized. For instance, in this tutorial, the launchpad being discussed requires investors' addresses to be whitelisted prior to the IDO.
 
 Article is published [here, continue reading ...](https://celo.academy/t/building-a-decentralised-ido-launchpad-on-celo-blockchain-a-comprehensive-tutorial-for-solidity-developers/864)
-
-### Deployed Contract Address
-
-- Yamtoken Contract Address is 0xFdaF7C2F1e8116120A037B858044Cb73c3c6dE9d
-- IDO LaunchPad Contract Address is 0x567946e9f6ECBde534580bC516b194906dC1efEc
